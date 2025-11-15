@@ -10,6 +10,7 @@ int main() {
     printf("%f\n", floatnum);
     printf("%c\n", letter);
     primtf("sample changes");
+    printf("sample changes for dev branch");
 
     return 0;
 }
