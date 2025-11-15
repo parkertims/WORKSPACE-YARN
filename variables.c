@@ -9,6 +9,7 @@ int main() {
     printf("%d\n", intnum);
     printf("%f\n", floatnum);
     printf("%c\n", letter);
+    primtf("sample changes");
 
     return 0;
 }
